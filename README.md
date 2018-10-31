@@ -1,4 +1,4 @@
-# Ruby Object Attributes Lab
+lear# Ruby Object Attributes Lab
 
 ## Objectives 
 
